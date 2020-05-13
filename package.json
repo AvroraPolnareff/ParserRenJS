@@ -1,0 +1,16 @@
+{
+  "name": "parser-renjs",
+  "version": "1.0.0",
+  "description": "renpy syntax for js",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "renpy",
+    "javascript",
+    "parser"
+  ],
+  "author": "Aurora Polnareff <AraInTheSkyWith@gmail.com>",
+  "license": "ISC"
+}
